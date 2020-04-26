@@ -7,14 +7,10 @@ document.addEventListener("DOMContentLoaded", () =>{
 function fetchQuotes(){
     fetch("http://localhost:3000/quotes?_embed=likes")
     .then(response => response.json())
-    .then(quotes => quotes.forEach(quote =>{
-        // debugger
-        let numLikes = +quote.likes.length
-        renderQuote(quote, numLikes)
-    }))
+    .then(quotes => quotes.forEach(renderQuote))
 }
 
-function renderQuote(quote, likes){
+function renderQuote(quote){
     const li = document.createElement('li'),
         block = document.createElement('blockquote'),
         p = document.createElement('p'),
@@ -35,7 +31,7 @@ function renderQuote(quote, likes){
     footer.className = "blockquote-footer"
     footer.innerText = quote.author
     likeButton.className = "btn-success"
-    likeButton.innerHTML = `Likes <span>${likes}</span>`
+    likeButton.innerHTML = `Likes <span>${quote.likes.length}</span>`
     
     likeButton.onclick = () => addLike(quote)
     deleteButton.className = "btn-danger"
