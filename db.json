@@ -53,6 +53,12 @@
     {
       "quoteId": 2,
       "id": 11
+    },
+    {
+      "quote": "hello",
+      "author": "flatiron",
+      "likes": [],
+      "id": 12
     }
   ],
   "likes": [
@@ -60,6 +66,74 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 2,
+      "id": 2
+    },
+    {
+      "quoteId": 11,
+      "id": 3
+    },
+    {
+      "quoteId": 2,
+      "id": 4
+    },
+    {
+      "quoteId": 2,
+      "id": 5
+    },
+    {
+      "quoteId": 3,
+      "id": 6
+    },
+    {
+      "quoteId": 3,
+      "id": 7
+    },
+    {
+      "quoteId": 4,
+      "id": 8
+    },
+    {
+      "quoteId": 4,
+      "id": 9
+    },
+    {
+      "quoteId": 11,
+      "id": 10
+    },
+    {
+      "quoteId": 11,
+      "id": 11
+    },
+    {
+      "quoteId": 3,
+      "id": 12
+    },
+    {
+      "quoteId": 3,
+      "id": 13
+    },
+    {
+      "quoteId": 2,
+      "id": 14
+    },
+    {
+      "quoteId": 2,
+      "id": 15
+    },
+    {
+      "quoteId": 1,
+      "id": 16
+    },
+    {
+      "quoteId": 12,
+      "id": 17
+    },
+    {
+      "quoteId": 12,
+      "id": 18
     }
   ]
 }
