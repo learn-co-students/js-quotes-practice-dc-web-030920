@@ -144,6 +144,4 @@ function editQuote(p, textA, footer, blockQuote, quote){
     }, false); // I don't know what this is
 
 
-  
-    // console.log("I got here")
 }

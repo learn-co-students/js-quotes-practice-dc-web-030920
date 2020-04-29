@@ -2,18 +2,8 @@
   "quotes": [
     {
       "id": 1,
-      "quote": "i got updat",
+      "quote": "i got updated again and again\n",
       "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
-      "id": 3,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Mike Tyson"
     },
     {
       "id": 4,
@@ -42,8 +32,13 @@
     },
     {
       "id": 9,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
+      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall. I'm still confused",
       "author": "Confucius"
+    },
+    {
+      "quote": "It was annoying",
+      "author": "Alex",
+      "id": 10
     }
   ],
   "likes": [
@@ -113,11 +108,6 @@
       "id": 13
     },
     {
-      "quoteId": 2,
-      "createdAt": 1588134515556,
-      "id": 14
-    },
-    {
       "quoteId": 1,
       "createdAt": 1588134656284,
       "id": 15
@@ -131,16 +121,6 @@
       "quoteId": 1,
       "createdAt": 1588134657509,
       "id": 17
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588134658242,
-      "id": 18
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588134658667,
-      "id": 19
     },
     {
       "quoteId": 1,
@@ -198,21 +178,6 @@
       "id": 30
     },
     {
-      "quoteId": 2,
-      "createdAt": 1588134806317,
-      "id": 31
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588134806799,
-      "id": 32
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588134813537,
-      "id": 33
-    },
-    {
       "quoteId": 1,
       "createdAt": 1588134859915,
       "id": 34
@@ -221,11 +186,6 @@
       "quoteId": 1,
       "createdAt": 1588134860735,
       "id": 35
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588134861550,
-      "id": 36
     },
     {
       "quoteId": 1,
@@ -241,16 +201,6 @@
       "quoteId": 1,
       "createdAt": 1588134997517,
       "id": 39
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588134998864,
-      "id": 40
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1588134999705,
-      "id": 41
     },
     {
       "quoteId": 1,
@@ -288,16 +238,6 @@
       "id": 48
     },
     {
-      "quoteId": 2,
-      "createdAt": 1588135208719,
-      "id": 49
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1588135209720,
-      "id": 50
-    },
-    {
       "quoteId": 4,
       "createdAt": 1588135211476,
       "id": 51
@@ -323,39 +263,9 @@
       "id": 55
     },
     {
-      "quoteId": 2,
-      "createdAt": 1588135247943,
-      "id": 56
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1588135248865,
-      "id": 57
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1588135263085,
-      "id": 58
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588135263918,
-      "id": 59
-    },
-    {
       "quoteId": 1,
       "createdAt": 1588135266435,
       "id": 60
-    },
-    {
-      "quoteId": 2,
-      "createdAt": 1588135267344,
-      "id": 61
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1588135268368,
-      "id": 62
     },
     {
       "quoteId": 4,
@@ -366,6 +276,41 @@
       "quoteId": 5,
       "createdAt": 1588135270972,
       "id": 64
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138921515,
+      "id": 65
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138921690,
+      "id": 66
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138921834,
+      "id": 67
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138921968,
+      "id": 68
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138922098,
+      "id": 69
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138922228,
+      "id": 70
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1588138922362,
+      "id": 71
     }
   ]
 }
