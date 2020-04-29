@@ -1,24 +1,9 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
       "id": 3,
       "quote": "Don't count the days, make the days count.",
       "author": "Mike Tyson"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
     },
     {
       "id": 5,
@@ -41,25 +26,131 @@
       "author": "Winston Churchhill"
     },
     {
-      "id": 9,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": 10,
+      "createdAt": 1588121604028,
+      "id": 1
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1588121691279,
+      "id": 2
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1588121768863,
+      "id": 3
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588121866933,
+      "id": 4
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1588121909540,
+      "id": 5
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1588122079075,
+      "id": 6
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1588122112906,
+      "id": 7
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1588122113455,
+      "id": 8
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1588122155983,
+      "id": 9
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1588122423442,
+      "id": 10
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1588122522181,
+      "id": 11
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588122558614,
+      "id": 12
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588123159067,
+      "id": 13
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1588123453215,
+      "id": 14
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588123482809,
+      "id": 15
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1588123565200,
+      "id": 16
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588123578950,
+      "id": 17
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1588123612003,
+      "id": 18
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588123653559,
+      "id": 19
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1588123748812,
+      "id": 20
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1588123788120,
+      "id": 21
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1588124380089,
+      "id": 22
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1588124383099,
+      "id": 23
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1588124425004,
+      "id": 24
     }
   ]
 }
